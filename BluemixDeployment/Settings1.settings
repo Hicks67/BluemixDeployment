@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BluemixDeployment" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="UrlCloud" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://api.eu-gb.bluemix.net</Value>
+    </Setting>
+    <Setting Name="Token" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">eyJhbGciOiJIUzI1NiIsImtpZCI6ImtleS0xIiwidHlwIjoiSldUIn0.eyJqdGkiOiJlZWJhYmViYjIxNDc0ODM0YTcyMDkyMTgwYThlNzMyMCIsInN1YiI6IjNhMDMyNzlmLTY4MjctNGUxZi1hOGYzLWU4ODM3NDg1MDEwZSIsInNjb3BlIjpbIm9wZW5pZCIsInVhYS51c2VyIiwiY2xvdWRfY29udHJvbGxlci5yZWFkIiwicGFzc3dvcmQud3JpdGUiLCJjbG91ZF9jb250cm9sbGVyLndyaXRlIl0sImNsaWVudF9pZCI6ImNmIiwiY2lkIjoiY2YiLCJhenAiOiJjZiIsImdyYW50X3R5cGUiOiJwYXNzd29yZCIsInVzZXJfaWQiOiIzYTAzMjc5Zi02ODI3LTRlMWYtYThmMy1lODgzNzQ4NTAxMGUiLCJvcmlnaW4iOiJ1YWEiLCJ1c2VyX25hbWUiOiJwb3ViaGl4LTY5QHlhaG9vLmZyIiwiZW1haWwiOiJwb3ViaGl4LTY5QHlhaG9vLmZyIiwiYXV0aF90aW1lIjoxNTA2MjA5NTM1LCJyZXZfc2lnIjoiMjI1NDRkMjQiLCJpYXQiOjE1MDYyMDk1MzUsImV4cCI6MTUwNzQxOTEzNSwiaXNzIjoiaHR0cHM6Ly91YWEubmcuYmx1ZW1peC5uZXQvb2F1dGgvdG9rZW4iLCJ6aWQiOiJ1YWEiLCJhdWQiOlsiY2xvdWRfY29udHJvbGxlciIsInBhc3N3b3JkIiwiY2YiLCJ1YWEiLCJvcGVuaWQiXX0.IHn0r8u6joHiNWNmMSzeLlcoTfXkgsJbFkzDrueUTbo</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
